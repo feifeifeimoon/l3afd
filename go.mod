@@ -10,7 +10,7 @@ require (
 	github.com/google/go-cmp v0.5.6 // indirect
 	github.com/mailru/easyjson v0.7.7 // indirect
 	github.com/mitchellh/go-ps v1.0.0
-	github.com/prometheus/client_golang v1.11.0
+	github.com/prometheus/client_golang v1.12.2
 	github.com/robfig/config v0.0.0-20141207224736-0f78529c8c7e
 	github.com/rs/zerolog v1.26.1
 	github.com/safchain/ethtool v0.0.0-20210803160452-9aa261dae9b1
